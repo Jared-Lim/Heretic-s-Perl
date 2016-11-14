@@ -3,5 +3,10 @@
 opendir(DIR,"demons/");
 @tribes= grep { $_ ne '.' && $_ ne '..' } readdir(DIR);
 foreach(@tribes){
-	print $_." ";
+	if(-e "output/".$_){
+		print "exists\t";
+	}else{
+		print "nope\t";
+	}
+	print $_."\n";
 }
