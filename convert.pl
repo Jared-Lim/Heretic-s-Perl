@@ -7,13 +7,14 @@ if(-e "output/"){
 }else{
 	mkdir "output";
 	print "created output directory\n";
+	print "------------------------\n";
 }
-sleep(1);
+usleep(1000000);
 #------------------------------------------
 
 #open demon directory
 opendir(DIR,"demons/");
-@tribes= grep { $_ ne '.' && $_ ne '..' } readdir(DIR);
+@tribes= grep { $_ ne '.' && $_ ne '..'} readdir(DIR);
 closedir(DIR);
 #-----------------------------------------------------------
 foreach(@tribes){
@@ -28,5 +29,5 @@ foreach(@tribes){
 		print "created ".$tribe."\n";
 	}
 	#----------------------------------
-	sleep(1);
+	usleep(250000);
 }
