@@ -19,15 +19,20 @@ closedir(DIR);
 #-----------------------------------------------------------
 foreach(@tribes){
 	$tribe = $_;
+	$outfold = "output/".$tribe;
 	#checks if folder is created, if not create
-	if(-e "output/".$tribe){
+	if(-e $outfold){
 		print "-----------------\n";
 		print $tribe."\n";
 		print "-----------------\n";
 	}else{
-		mkdir "output/".$tribe;
+		mkdir $outfold;
 		print "created ".$tribe."\n";
 	}
-	#----------------------------------
 	usleep(250000);
+	#----------------------------------
+	
+
+
+
 }
