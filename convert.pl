@@ -27,7 +27,9 @@ foreach(@tribes){
 		mkdir $outfold;
 		print "creating\t";
 	}
+	print "----------------------------\n";
 	print $tribe."\n";
+	print "----------------------------\n";
 	#----------------------------------
 
 	#open tribe directory
