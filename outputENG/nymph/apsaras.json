@@ -1,0 +1,34 @@
+{
+	"tribe": "amatsukami",
+	"name": "Apsaras",
+	"level": 8,
+	"stats": {
+		"hp": 85,
+		"mp": 81,
+		"strength": 13,
+		"skill": 14,
+		"magic": 17,
+		"speed": 12,
+		"luck": 16
+	},
+	"affinity": {
+		"physical": "-",
+		"gun": "-",
+		"fire": "weak",
+		"ice": "absorb",
+		"thunder": "-",
+		"shock": "-",
+		"banish": "-",
+		"curse": "-",
+		"bind": "weak",
+		"sleep": "-",
+		"cold": "-",
+		"confusion": "-",
+		"poison": "weak"
+	},
+	"skills": {
+		"メディア": 0,
+		"ドルミナー": 0,
+		"ポズムディ": 9
+	}
+}

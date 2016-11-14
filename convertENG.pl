@@ -3,9 +3,9 @@
 use Time::HiRes qw(usleep nanosleep);
 
 #check for output folder
-if(-e "output/"){
+if(-e "outputENG/"){
 }else{
-	mkdir "output";
+	mkdir "outputENG";
 	print "------------------------\n";
 	print "created output directory\n";
 	print "------------------------\n";
@@ -20,7 +20,7 @@ closedir(DIR);
 #-----------------------------------------------------------
 foreach(@tribes){
 	$tribe = $_;
-	$outfold = "output/".$tribe;
+	$outfold = "outputENG/".$tribe;
 	#checks if folder is created, if not create
 	if(-e $outfold){
 	}else{
@@ -50,7 +50,16 @@ foreach(@tribes){
 			print FILE2 "{\n";
 			while($line=<FILE1>){
 				if($line !~ /registerDemon\(\{/ && $line !~ /\}\)\;/ && $line !~ /\/\/*/){
-					print FILE2 $line;
+					if($line =~ /\"tribe\"/){
+						print FILE2 "\t\"tribe\"\:"." \"amatsukami\"\,\n";
+					}elsif($line =~ /\"nameJP\"/){
+						next;
+					}elsif($line =~ /\"nameEN\"/){
+						$line =~ s/nameEN/name/;
+						print FILE2 $line
+					}else{
+						print FILE2 $line;
+					}
 				}
 			}
 			print FILE2 "}\n";
