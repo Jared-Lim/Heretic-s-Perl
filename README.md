@@ -1,9 +1,10 @@
 # Heretic's Perl
 
 Perl files for editing all these demons  
-So many demons jesus  
+Both JP and ENG versions are kept in case needed with other files (skills file)  
+Fusion translation possibly needs access to the translated version; we shall see  
   
-also please remember:
+Also please remember:
 >git add (stuff)  
 >git comit -m "message"  
 >git push -u origin master (or just git push)  
