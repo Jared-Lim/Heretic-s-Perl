@@ -1,25 +1,32 @@
 #!/usr/bin/perl -w
 
-if(!"output/"){
-	print "WAH\n";
-}else{
-	print "wey\n";
-}
+use Time::HiRes qw(usleep nanosleep);
 
+#check for output folder
+if(-e "output/"){
+}else{
+	mkdir "output";
+	print "created output directory\n";
+}
+sleep(1);
+#------------------------------------------
+
+#open demon directory
 opendir(DIR,"demons/");
 @tribes= grep { $_ ne '.' && $_ ne '..' } readdir(DIR);
 closedir(DIR);
+#-----------------------------------------------------------
 foreach(@tribes){
 	$tribe = $_;
-	#------------------------------------------
 	#checks if folder is created, if not create
-	#------------------------------------------
 	if(-e "output/".$tribe){
-		print $tribe."\n---tribe exists\n";
+		print "-----------------\n";
+		print $tribe."\n";
+		print "-----------------\n";
 	}else{
 		mkdir "output/".$tribe;
 		print "created ".$tribe."\n";
 	}
-	#------------------------------------------
-
+	#----------------------------------
+	sleep(1);
 }
