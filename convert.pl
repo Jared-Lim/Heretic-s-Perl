@@ -25,11 +25,10 @@ foreach(@tribes){
 	if(-e $outfold){
 	}else{
 		mkdir $outfold;
-		print "creating\t";
+		print "creating";
 	}
-	print "----------------------------\n";
-	print $tribe."\n";
-	print "----------------------------\n";
+	print "    ".$tribe."\n";
+	print "----------------------\n";
 	#----------------------------------
 
 	#open tribe directory
@@ -38,18 +37,31 @@ foreach(@tribes){
 	closedir(DIR);
 	#-------------------------------------------------------
 	foreach(@demons){
-		$demon = $_;
-		if(-e $outfold."/".$demon){
+		$demon = $_."on";
+		$demonfile = "demons/".$tribe."/".$_;
+		$outfile = $outfold."/".$demon;
+		#check if demon json is created, if not convert
+		if(-e $outfile){
 		}else{
-			print "\tcreating\t";
+			print "  creating ----> ".$demon."\n";
+			open(FILE,$demonfile);
+			open(FILE2,'>'.$outfile);
+			print FILE2 "{\n";
+			while($line=<FILE1>){
+				if($line !~ /registerDemon\(\{/){
+					if($line !~ /\}\)\;/){
+						if($line !~ /\/\/*/){
+							print FILE2 $line;
+						}
+					}
+				}
+			}
+			print FILE2 "}\n";
+			close FILE1;
+			close FILE2;
 		}
-		print $demon."\n";
-
-
-
 		usleep(200000);
+		#------------------------------------------------
 	}
 	usleep(500000);
-
-
 }
