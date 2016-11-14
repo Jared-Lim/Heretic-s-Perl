@@ -1,3 +1,7 @@
 #!/usr/bin/perl -w
 
-print "Hello?\n";
+opendir(DIR,"demons/");
+@tribes= grep { $_ ne '.' && $_ ne '..' } readdir(DIR);
+foreach(@tribes){
+	print $_." ";
+}
