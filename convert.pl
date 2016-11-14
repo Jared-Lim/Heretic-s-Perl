@@ -6,6 +6,7 @@ use Time::HiRes qw(usleep nanosleep);
 if(-e "output/"){
 }else{
 	mkdir "output";
+	print "------------------------\n";
 	print "created output directory\n";
 	print "------------------------\n";
 }
@@ -22,13 +23,11 @@ foreach(@tribes){
 	$outfold = "output/".$tribe;
 	#checks if folder is created, if not create
 	if(-e $outfold){
-		print "-----------------\n";
-		print $tribe."\n";
-		print "-----------------\n";
 	}else{
 		mkdir $outfold;
-		print "created ".$tribe."\n";
+		print "creating\t";
 	}
+	print $tribe."\n";
 	#----------------------------------
 
 	#open tribe directory
@@ -37,7 +36,15 @@ foreach(@tribes){
 	closedir(DIR);
 	#-------------------------------------------------------
 	foreach(@demons){
-		print $_."\n";
+		$demon = $_;
+		if(-e $outfold."/".$demon){
+		}else{
+			print "\tcreating\t";
+		}
+		print $demon."\n";
+
+
+
 		usleep(200000);
 	}
 	usleep(500000);
