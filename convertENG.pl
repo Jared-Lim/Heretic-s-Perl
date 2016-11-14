@@ -51,7 +51,7 @@ foreach(@tribes){
 			while($line=<FILE1>){
 				if($line !~ /registerDemon\(\{/ && $line !~ /\}\)\;/ && $line !~ /\/\/*/){
 					if($line =~ /\"tribe\"/){
-						print FILE2 "\t\"tribe\"\:"." \"amatsukami\"\,\n";
+						print FILE2 "\t\"tribe\"\: \"".$tribe."\"\,\n";
 					}elsif($line =~ /\"nameJP\"/){
 						next;
 					}elsif($line =~ /\"nameEN\"/){
