@@ -10,7 +10,7 @@ if(-e "output/"){
 	print "created output directory\n";
 	print "------------------------\n";
 }
-usleep(1000000);
+#usleep(1000000);
 #------------------------------------------
 
 #open demon directory
@@ -42,9 +42,10 @@ foreach(@tribes){
 		$outfile = $outfold."/".$demon;
 		#check if demon json is created, if not convert
 		if(-e $outfile){
+			print $demon."\n";
 		}else{
 			print "  creating ----> ".$demon."\n";
-			open(FILE,$demonfile);
+			open(FILE1,$demonfile);
 			open(FILE2,'>'.$outfile);
 			print FILE2 "{\n";
 			while($line=<FILE1>){
@@ -60,8 +61,8 @@ foreach(@tribes){
 			close FILE1;
 			close FILE2;
 		}
-		usleep(200000);
+		#usleep(200000);
 		#------------------------------------------------
 	}
-	usleep(500000);
+	#usleep(500000);
 }
