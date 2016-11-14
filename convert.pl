@@ -13,7 +13,7 @@ usleep(1000000);
 #------------------------------------------
 
 #open demon directory
-opendir(DIR,"demons/");
+opendir(DIR,"demons");
 @tribes= grep { $_ ne '.' && $_ ne '..'} readdir(DIR);
 closedir(DIR);
 #-----------------------------------------------------------
@@ -29,10 +29,18 @@ foreach(@tribes){
 		mkdir $outfold;
 		print "created ".$tribe."\n";
 	}
-	usleep(250000);
 	#----------------------------------
-	
 
+	#open tribe directory
+	opendir(DIR,"demons/".$tribe);
+	@demons = grep { $_ ne '.' && $_ ne '..'} readdir(DIR);
+	closedir(DIR);
+	#-------------------------------------------------------
+	foreach(@demons){
+		print $_."\n";
+		usleep(200000);
+	}
+	usleep(500000);
 
 
 }
