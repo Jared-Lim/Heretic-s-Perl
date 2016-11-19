@@ -18,7 +18,12 @@ foreach(@tribes){
 		open(FILE,'output/'.$tribe.'/'.$demon);
 		while($line = <FILE>){
 			if($line =~ /^\t\"(.*)\"/){
-				print $1."\n";
+				$line2=$1;
+				if($line2=~ /^(\w*)\": /){
+					print $1." ";
+				}else{
+					print $line2." ";
+				}
 			}
 		}
 		close FILE;
