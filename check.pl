@@ -28,6 +28,5 @@ foreach(@tribes){
 		}
 		close FILE;
 		print "\n";
-		usleep(1000000);
 	}
 }

@@ -1,0 +1,900 @@
+amatsukami
+---amaterasu.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---ame_no_uzume.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---omoikane.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---take-mikazuchi.json
+tribe nameJP nameEN level stats affinity skills fusions 
+avatar
+---airavata.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---anubis.json
+tribe nameJP nameEN level stats affinity skills 
+---apis.json
+tribe nameJP nameEN level stats affinity skills 
+---baihu.json
+tribe nameJP nameEN level stats affinity skills 
+---barong.json
+tribe nameJP nameEN level stats affinity skills 
+---chimera.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---hequet.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---kaiming_shou.json
+tribe nameJP nameEN level stats affinity skills 
+---kamapuaa.json
+tribe nameJP nameEN level stats affinity skills 
+---makami.json
+tribe nameJP nameEN level stats affinity skills 
+---pabilsag.json
+tribe nameJP nameEN level stats affinity skills 
+---qing_niuguai.json
+tribe nameJP nameEN level stats affinity skills 
+---shiisaa.json
+tribe nameJP nameEN level stats affinity skills 
+---sleipnir.json
+tribe nameJP nameEN level stats affinity skills 
+---sphinx.json
+tribe nameJP nameEN level stats affinity skills 
+---ukano_mitama.json
+tribe nameJP nameEN level stats affinity skills 
+avian
+---garuda.json
+tribe nameJP nameEN level stats affinity skills 
+---hamsa.json
+tribe nameJP nameEN level stats affinity skills 
+---phoenix.json
+tribe nameJP nameEN level stats affinity skills 
+---suparna.json
+tribe nameJP nameEN level stats affinity skills 
+---suzaku.json
+tribe nameJP nameEN level stats affinity skills 
+---thunderbird.json
+tribe nameJP nameEN level stats affinity skills 
+---vidofnir.json
+tribe nameJP nameEN level stats affinity skills 
+---yatagarasu.json
+tribe nameJP nameEN level stats affinity skills 
+beast
+---ammut.json
+tribe nameJP nameEN level stats affinity skills 
+---asterius.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---cerberus.json
+tribe nameJP nameEN level stats affinity skills 
+---dormarth.json
+tribe nameJP nameEN level stats affinity skills 
+---griffon.json
+tribe nameJP nameEN level stats affinity skills 
+---hairy_jack.json
+tribe nameJP nameEN level stats affinity skills 
+---hsing-hsing.json
+tribe nameJP nameEN level stats affinity skills 
+---inugami.json
+tribe nameJP nameEN level stats affinity skills 
+---kabuso.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---kaso.json
+tribe nameJP nameEN level stats affinity skills 
+---minotaur.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---nekomata.json
+tribe nameJP nameEN level stats affinity skills 
+---orthrus.json
+tribe nameJP nameEN level stats affinity skills 
+---stonka.json
+tribe nameJP nameEN level stats affinity skills 
+brute
+---azumi.json
+tribe nameJP nameEN level stats affinity skills 
+---berserker.json
+tribe nameJP nameEN level stats affinity skills 
+---bilwis.json
+tribe nameJP nameEN level stats affinity skills 
+---fuu-ki.json
+tribe nameJP nameEN level stats affinity skills 
+---kin-ki.json
+tribe nameJP nameEN level stats affinity skills 
+---momunofu.json
+tribe nameJP nameEN level stats affinity skills 
+---ongyo-ki.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---oni.json
+tribe nameJP nameEN level stats affinity skills 
+---sui-ki.json
+tribe nameJP nameEN level stats affinity skills 
+---yaksa.json
+tribe nameJP nameEN level stats affinity skills 
+---yamawaro.json
+tribe nameJP nameEN level stats affinity skills 
+---yomotsu-ikusa.json
+tribe nameJP nameEN level stats affinity skills 
+deity
+---apsu.json
+tribe nameJP nameEN level stats affinity skills 
+---baal.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---hachiman.json
+tribe nameJP nameEN level stats affinity skills 
+---inti.json
+tribe nameJP nameEN level stats affinity skills 
+---mahamayuri.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---nan_dou.json
+tribe nameJP nameEN level stats affinity skills 
+---odin.json
+tribe nameJP nameEN level stats affinity skills 
+---omoteotl.json
+tribe nameJP nameEN level stats affinity skills 
+---osiris.json
+tribe nameJP nameEN level stats affinity skills 
+---prometheus.json
+tribe nameJP nameEN level stats affinity skills 
+---thoth.json
+tribe nameJP nameEN level stats affinity skills 
+---vishnu.json
+tribe nameJP nameEN level stats affinity skills 
+divine
+---angel.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---archangel.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---cherub.json
+tribe nameJP nameEN level stats affinity skills 
+---dominion.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---power.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---principality.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---throne.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---virtue.json
+tribe nameJP nameEN level stats affinity skills mutate 
+dragon_god
+---gucumatz.json
+tribe nameJP nameEN level stats affinity skills 
+---illuyanka.json
+tribe nameJP nameEN level stats affinity skills 
+---koga_saburo.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---kohryu.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---long.json
+tribe nameJP nameEN level stats affinity skills 
+---makara.json
+tribe nameJP nameEN level stats affinity skills 
+---patrimpas.json
+tribe nameJP nameEN level stats affinity skills 
+---quetzalcoatl.json
+tribe nameJP nameEN level stats affinity skills 
+---zhu_yin.json
+tribe nameJP nameEN level stats affinity skills 
+dragon_king
+---ananta.json
+tribe nameJP nameEN level stats affinity skills 
+---gui_xian.json
+tribe nameJP nameEN level stats affinity skills 
+---naga.json
+tribe nameJP nameEN level stats affinity skills 
+---nozuchi.json
+tribe nameJP nameEN level stats affinity skills 
+---orochi.json
+tribe nameJP nameEN level stats affinity skills 
+---ouroboros.json
+tribe nameJP nameEN level stats affinity skills 
+---pendragon.json
+tribe nameJP nameEN level stats affinity skills 
+---vouivre.json
+tribe nameJP nameEN level stats affinity skills 
+---yurlungur.json
+tribe nameJP nameEN level stats affinity skills 
+element
+---aeros.json
+tribe nameJP nameEN level stats affinity skills 
+---aquans.json
+tribe nameJP nameEN level stats affinity skills 
+---erthys.json
+tribe nameJP nameEN level stats affinity skills 
+---flaemis.json
+tribe nameJP nameEN level stats affinity skills 
+---gnome.json
+tribe nameJP nameEN level stats affinity skills 
+---salamander.json
+tribe nameJP nameEN level stats affinity skills 
+---sylph.json
+tribe nameJP nameEN level stats affinity skills 
+---undine.json
+tribe nameJP nameEN level stats affinity skills 
+enigma
+---futotama.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---kama.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---kanbari.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---kangiten.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---kinmamon.json
+tribe nameJP nameEN level stats affinity skills fusions 
+entity
+---alilat.json
+tribe nameJP nameEN level stats affinity skills fusions 
+evil_dragon
+---bai_suzhen.json
+tribe nameJP nameEN level stats affinity skills 
+---basilisk.json
+tribe nameJP nameEN level stats affinity skills 
+---fafnir.json
+tribe nameJP nameEN level stats affinity skills 
+---kingu.json
+tribe nameJP nameEN level stats affinity skills 
+---mushussu.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---nidhoggr.json
+tribe nameJP nameEN level stats affinity skills 
+---python.json
+tribe nameJP nameEN level stats affinity skills 
+---tiamat.json
+tribe nameJP nameEN level stats affinity skills 
+---toubyou.json
+tribe nameJP nameEN level stats affinity skills 
+---vasuki.json
+tribe nameJP nameEN level stats affinity skills 
+---ym.json
+tribe nameJP nameEN level stats affinity skills 
+---zhu_tun_she.json
+tribe nameJP nameEN level stats affinity skills 
+fairy
+---demonee-ho.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---goblin.json
+tribe nameJP nameEN level stats affinity skills 
+---high_pixie.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---jack_frost.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---kelpie.json
+tribe nameJP nameEN level stats affinity skills 
+---lorelei.json
+tribe nameJP nameEN level stats affinity skills 
+---nadja.json
+tribe nameJP nameEN level stats affinity skills 
+---napaea.json
+tribe nameJP nameEN level stats affinity skills 
+---oberon.json
+tribe nameJP nameEN level stats affinity skills 
+---oread.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---pixie.json
+tribe nameJP nameEN level stats affinity skills 
+---pyro_jack.json
+tribe nameJP nameEN level stats affinity skills 
+---setanta.json
+tribe nameJP nameEN level stats affinity skills 
+---silky.json
+tribe nameJP nameEN level stats affinity skills 
+---spriggan.json
+tribe nameJP nameEN level stats affinity skills 
+---titania.json
+tribe nameJP nameEN level stats affinity skills 
+---vivian.json
+tribe nameJP nameEN level stats affinity skills 
+fallen
+---barbatos.json
+tribe nameJP nameEN level stats affinity skills 
+---bifrons.json
+tribe nameJP nameEN level stats affinity skills 
+---botis.json
+tribe nameJP nameEN level stats affinity skills 
+---dantalion.json
+tribe nameJP nameEN level stats affinity skills 
+---decarabia.json
+tribe nameJP nameEN level stats affinity skills 
+---gemori.json
+tribe nameJP nameEN level stats affinity skills 
+---halphas.json
+tribe nameJP nameEN level stats affinity skills 
+---melchom.json
+tribe nameJP nameEN level stats affinity skills 
+---mithra.json
+tribe nameJP nameEN level stats affinity skills 
+---murmur.json
+tribe nameJP nameEN level stats affinity skills 
+---nebiros.json
+tribe nameJP nameEN level stats affinity skills 
+---orias.json
+tribe nameJP nameEN level stats affinity skills 
+---ose.json
+tribe nameJP nameEN level stats affinity skills 
+---samael.json
+tribe nameJP nameEN level stats affinity skills 
+---shax.json
+tribe nameJP nameEN level stats affinity skills 
+femme
+---atropos.json
+tribe nameJP nameEN level stats affinity skills 
+---clotho.json
+tribe nameJP nameEN level stats affinity skills 
+---dakini.json
+tribe nameJP nameEN level stats affinity skills 
+---kali.json
+tribe nameJP nameEN level stats affinity skills 
+---lachesis.json
+tribe nameJP nameEN level stats affinity skills 
+---leanan_sidhe.json
+tribe nameJP nameEN level stats affinity skills 
+---medusa.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---rangda.json
+tribe nameJP nameEN level stats affinity skills 
+---shikome.json
+tribe nameJP nameEN level stats affinity skills 
+---strix.json
+tribe nameJP nameEN level stats affinity skills 
+---taraka.json
+tribe nameJP nameEN level stats affinity skills 
+---yuki_jyorou.json
+tribe nameJP nameEN level stats affinity skills 
+fiend
+---black_rider.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---chemtrail.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---david.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---matador.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---mother_harlot.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---pale_rider.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---plasma.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---red_rider.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---trumpeter.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---white_rider.json
+tribe nameJP nameEN level stats affinity skills fusions 
+flight
+---caladrius.json
+tribe nameJP nameEN level stats affinity skills 
+---da_pengm.json
+tribe nameJP nameEN level stats affinity skills 
+---gu_huo_niao.json
+tribe nameJP nameEN level stats affinity skills 
+---harpy.json
+tribe nameJP nameEN level stats affinity skills 
+---rukh.json
+tribe nameJP nameEN level stats affinity skills 
+---tangata_manu.json
+tribe nameJP nameEN level stats affinity skills 
+---tuofei.json
+tribe nameJP nameEN level stats affinity skills 
+food
+---chupacabra.json
+tribe nameJP nameEN level stats affinity skills 
+---hare_of_inaba.json
+tribe nameJP nameEN level stats affinity skills 
+---katakirauwa.json
+tribe nameJP nameEN level stats affinity skills 
+---kuda.json
+tribe nameJP nameEN level stats affinity skills 
+---mamedanuki.json
+tribe nameJP nameEN level stats affinity skills 
+---onmoraki.json
+tribe nameJP nameEN level stats affinity skills 
+foul
+---hooligan.json
+tribe nameJP nameEN level stats affinity skills 
+---jack_ripper.json
+tribe nameJP nameEN level stats affinity skills 
+---mad_gasser.json
+tribe nameJP nameEN level stats affinity skills 
+---night_stalker.json
+tribe nameJP nameEN level stats affinity skills 
+---slime.json
+tribe nameJP nameEN level stats affinity skills 
+---tattoo_man.json
+tribe nameJP nameEN level stats affinity skills 
+fury
+---ares.json
+tribe nameJP nameEN level stats affinity skills 
+---asura.json
+tribe nameJP nameEN level stats affinity skills 
+---beiji-weng.json
+tribe nameJP nameEN level stats affinity skills 
+---chernobog.json
+tribe nameJP nameEN level stats affinity skills 
+---kartikeya.json
+tribe nameJP nameEN level stats affinity skills 
+---masakado.json
+tribe nameJP nameEN level stats affinity skills 
+---shiva.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---susano-o.json
+tribe nameJP nameEN level stats affinity skills 
+---tonatiuh.json
+tribe nameJP nameEN level stats affinity skills 
+---wu_kong.json
+tribe nameJP nameEN level stats affinity skills 
+genma
+---beldr.json
+tribe nameJP nameEN level stats affinity skills 
+---cu_chulainn.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---frost_ace.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---hanuman.json
+tribe nameJP nameEN level stats affinity skills 
+---heimdall.json
+tribe nameJP nameEN level stats affinity skills 
+---ictinike.json
+tribe nameJP nameEN level stats affinity skills 
+---jarilo.json
+tribe nameJP nameEN level stats affinity skills 
+---kresnik.json
+tribe nameJP nameEN level stats affinity skills 
+---kurama_tengu.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---nezha.json
+tribe nameJP nameEN level stats affinity skills 
+---tam_lin.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---tlaloc.json
+tribe nameJP nameEN level stats affinity skills 
+godly
+---ancient_day.json
+tribe nameJP nameEN level stats affinity skills fusions dlc 
+haunt
+---churel.json
+tribe nameJP nameEN level stats affinity skills 
+---dullahan.json
+tribe nameJP nameEN level stats affinity skills 
+---enku.json
+tribe nameJP nameEN level stats affinity skills 
+---gaki.json
+tribe nameJP nameEN level stats affinity skills 
+---ghoul.json
+tribe nameJP nameEN level stats affinity skills 
+---kudlak.json
+tribe nameJP nameEN level stats affinity skills 
+---mou-ryo.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---obariyon.json
+tribe nameJP nameEN level stats affinity skills 
+---strigoii.json
+tribe nameJP nameEN level stats affinity skills 
+---vetala.json
+tribe nameJP nameEN level stats affinity skills 
+herald
+---aniel.json
+tribe nameJP nameEN level stats affinity skills notes profile means \"grade of God.\"He is generally associated with the planet  Venus and performs a similar role as the goddess Ishtar.\nHe gives  rise to feelings of love amoungst people and has the role of tying  together young men and women. He is also thought to be the symbol of  lasting friendship and lust. When he appears, it is said to be in the  form of a beautiful man or woman. 
+---azrael.json
+tribe nameJP nameEN level stats affinity skills notes profile four wings.\nAzrael has a book in which he inscribes and erases the  names of those who are born and die. His body is covered in eyes.  When one blinks, someone in the world dies. 
+---gabriel.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---israfel.json
+tribe nameJP nameEN level stats affinity skills notes profile the trumpet during the Last Judgement.\nHe has four wings and is said  to tower into the heavens. Thrice daily and nightly, he sheds enormous  tears while watching humans tormented in Hell. 
+---kazfiel.json
+tribe nameJP nameEN level stats affinity skills notes profile Biga, meaning \"good person.\"\nHe attempted to coerce Michael to tell him the sacred name of God, but was denied. After the Fall, he was  given the name Kazbiel, \"he who lies to God.\" 
+---lailah.json
+tribe nameJP nameEN level stats affinity skills notes profile conception.\nShe is the intermediary between pregnant women and God.  When a woman conceives a child, the seed is given to God, who then  decides the child's sex, appearance, and destiny. After such things  are decided, a new soul is placed into the woman's womb. 
+---matsema.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---metatron.json
+tribe nameJP nameEN level stats affinity skills notes profile many names, such as the Voice of God and Angel of Contracts. In  contrast to his duty to maintain the world, he is said to have a  merciless side toward humanity. 
+---michael.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---raphael.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---seraph.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---sraosha.json
+tribe nameJP nameEN level stats affinity skills notes profile humanity's cry for Ahura Mazda.\nAlso known to descend after sunset  to vanquish evil. Its name literally means \"observance.\" 
+---uriel.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---victor.json
+tribe nameJP nameEN level stats affinity skills notes profile dream and had him spread Christianity throughout Ireland.\nHis role is  to speak the will of God to those who are to become leaders. 
+hero
+---hagen.json
+tribe nameJP nameEN level stats affinity skills 
+---huang_di.json
+tribe nameJP nameEN level stats affinity skills 
+---jeanne_darc.json
+tribe nameJP nameEN level stats affinity skills 
+---kanseiteikun.json
+tribe nameJP nameEN level stats affinity skills 
+---lanling_wang.json
+tribe nameJP nameEN level stats affinity skills 
+---michizane.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---rama.json
+tribe nameJP nameEN level stats affinity skills 
+---siegfried.json
+tribe nameJP nameEN level stats affinity skills 
+---tenkai.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---tokisada.json
+tribe nameJP nameEN level stats affinity skills 
+---yamato-takeru.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---yoshitsune.json
+tribe nameJP nameEN level stats affinity skills 
+jaki
+---black_frost.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---girimehkala.json
+tribe nameJP nameEN level stats affinity skills 
+---gremlin.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---grendel.json
+tribe nameJP nameEN level stats affinity skills 
+---hecatoncheir.json
+tribe nameJP nameEN level stats affinity skills 
+---ippon-darara.json
+tribe nameJP nameEN level stats affinity skills 
+---lham_dearg.json
+tribe nameJP nameEN level stats affinity skills 
+---ogre.json
+tribe nameJP nameEN level stats affinity skills 
+---rakshasa.json
+tribe nameJP nameEN level stats affinity skills 
+---wendigo.json
+tribe nameJP nameEN level stats affinity skills 
+jirae
+---dwarf.json
+tribe nameJP nameEN level stats affinity skills 
+---gogmagog.json
+tribe nameJP nameEN level stats affinity skills 
+---hua_po.json
+tribe nameJP nameEN level stats affinity skills 
+---knocker.json
+tribe nameJP nameEN level stats affinity skills 
+---kuebiko.json
+tribe nameJP nameEN level stats affinity skills 
+---kwancha.json
+tribe nameJP nameEN level stats affinity skills 
+---sudama.json
+tribe nameJP nameEN level stats affinity skills 
+---titan.json
+tribe nameJP nameEN level stats affinity skills 
+---tlaltechuhtli.json
+tribe nameJP nameEN level stats affinity skills 
+---tsuchigumo.json
+tribe nameJP nameEN level stats affinity skills 
+kishin
+---bishamonten.json
+tribe nameJP nameEN level stats affinity skills 
+---jikokuten.json
+tribe nameJP nameEN level stats affinity skills 
+---koumokuten.json
+tribe nameJP nameEN level stats affinity skills 
+---marici.json
+tribe nameJP nameEN level stats affinity skills 
+---shouki.json
+tribe nameJP nameEN level stats affinity skills 
+---thor.json
+tribe nameJP nameEN level stats affinity skills 
+---zouchouten.json
+tribe nameJP nameEN level stats affinity skills 
+kunitsukami
+---arahabaki.json
+tribe nameJP nameEN level stats affinity skills 
+---hitokoto-nushi.json
+tribe nameJP nameEN level stats affinity skills 
+---kushinada-hime.json
+tribe nameJP nameEN level stats affinity skills 
+---okuninushi.json
+tribe nameJP nameEN level stats affinity skills 
+---oumitsunu.json
+tribe nameJP nameEN level stats affinity skills 
+---take-minakata.json
+tribe nameJP nameEN level stats affinity skills 
+lady
+---asherah.json
+tribe nameJP nameEN level stats affinity skills 
+---black_maria.json
+tribe nameJP nameEN level stats affinity skills 
+---diana.json
+tribe nameJP nameEN level stats affinity skills 
+---dzelarhons.json
+tribe nameJP nameEN level stats affinity skills 
+---hariti.json
+tribe nameJP nameEN level stats affinity skills 
+---isis.json
+tribe nameJP nameEN level stats affinity skills 
+---pele.json
+tribe nameJP nameEN level stats affinity skills 
+---sedna.json
+tribe nameJP nameEN level stats affinity skills 
+---skadi.json
+tribe nameJP nameEN level stats affinity skills 
+---xi_wangmu.json
+tribe nameJP nameEN level stats affinity skills fusions 
+megami
+---anat.json
+tribe nameJP nameEN level stats affinity skills 
+---brigid.json
+tribe nameJP nameEN level stats affinity skills notes profile craftmanship, intelligence, poetry, and healing.\nShe is depicted  carrying a magic cup symbolizing a brazier. She had such authority  that her name itself was synonymous with \"goddess.\" When  Christianity spread to Ireland, she was so revered by the masses that  the churh canonized her as a Christian saint. 
+---fortuna.json
+tribe nameJP nameEN level stats affinity skills fusions notes profile She is believed to have originally been a fertility goddess. Her Greek  counterpart is Tyche. 
+---hathor.json
+tribe nameJP nameEN level stats affinity skills notes profile of love, motherhood, and joy.\n She is depicted as a cow with the disc  of the sun between her horns, or as a horned woman holding the disc of  the sun. 
+---ishtar.json
+tribe nameJP nameEN level stats affinity skills 
+---izanami.json
+tribe nameJP nameEN level stats affinity skills 
+---lakshmi.json
+tribe nameJP nameEN level stats affinity skills 
+---norn.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---pallas_athena.json
+tribe nameJP nameEN level stats affinity skills notes profile fully armored after he swallowed her mother, Metis. She is the patron  goddess of Athens and is associated with olive trees. 
+---parvati.json
+tribe nameJP nameEN level stats affinity skills notes profile Hindu lore.\nShe is always at Shiva's side and played a role in  opening his third eye. 
+---scathach.json
+tribe nameJP nameEN level stats affinity skills notes profile Land of Shadows. She is a skilled magician and a master warrior. She  trains young men who come to her in the art of war. The famed Cu  Chulainn was one of her students, and it is said that he received the  legendary Gae Blog once he mastered her teachings. 
+---tlazolteotl.json
+tribe nameJP nameEN level stats affinity skills 
+night
+---fomorian.json
+tribe nameJP nameEN level stats affinity skills 
+---incubus.json
+tribe nameJP nameEN level stats affinity skills 
+---kaiwan.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---kikimora.json
+tribe nameJP nameEN level stats affinity skills 
+---lilim.json
+tribe nameJP nameEN level stats affinity skills 
+---lilith.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---maya.json
+tribe nameJP nameEN level stats affinity skills 
+---mokoi.json
+tribe nameJP nameEN level stats affinity skills 
+---queen_mab.json
+tribe nameJP nameEN level stats affinity skills 
+---sandman.json
+tribe nameJP nameEN level stats affinity skills 
+---succubus.json
+tribe nameJP nameEN level stats affinity skills 
+---wild_haunt.json
+tribe nameJP nameEN level stats affinity skills mutate 
+nymph
+---apsaras.json
+tribe nameJP nameEN level stats affinity skills 
+---kikuri-hime.json
+tribe nameJP nameEN level stats affinity skills 
+---peri.json
+tribe nameJP nameEN level stats affinity skills 
+---sarasvati.json
+tribe nameJP nameEN level stats affinity skills 
+---senri.json
+tribe nameJP nameEN level stats affinity skills mutate 
+raptor
+---anzu.json
+tribe nameJP nameEN level stats affinity skills 
+---camazotz.json
+tribe nameJP nameEN level stats affinity skills 
+---fuxi.json
+tribe nameJP nameEN level stats affinity skills 
+---gurr.json
+tribe nameJP nameEN level stats affinity skills 
+---hresvelgr.json
+tribe nameJP nameEN level stats affinity skills 
+---huoniao.json
+tribe nameJP nameEN level stats affinity skills 
+---itsumade.json
+tribe nameJP nameEN level stats affinity skills 
+---moh_shuvuu.json
+tribe nameJP nameEN level stats affinity skills 
+---zhen.json
+tribe nameJP nameEN level stats affinity skills 
+reaper
+---cernunnos.json
+tribe nameJP nameEN level stats affinity skills 
+---guedhe.json
+tribe nameJP nameEN level stats affinity skills 
+---hel.json
+tribe nameJP nameEN level stats affinity skills 
+---ixtab.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---mot.json
+tribe nameJP nameEN level stats affinity skills 
+---nergal.json
+tribe nameJP nameEN level stats affinity skills 
+---orcus.json
+tribe nameJP nameEN level stats affinity skills 
+---persephone.json
+tribe nameJP nameEN level stats affinity skills 
+spirit
+---dybbuk.json
+tribe nameJP nameEN level stats affinity skills 
+---garrote.json
+tribe nameJP nameEN level stats affinity skills 
+---inferno.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---legion.json
+tribe nameJP nameEN level stats affinity skills 
+---macabre.json
+tribe nameJP nameEN level stats affinity skills 
+---pisaca.json
+tribe nameJP nameEN level stats affinity skills 
+---poltergeist.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---quicksilver.json
+tribe nameJP nameEN level stats affinity skills 
+---wicker_man.json
+tribe nameJP nameEN level stats affinity skills 
+tree
+---daphne.json
+tribe nameJP nameEN level stats affinity skills 
+---haoma.json
+tribe nameJP nameEN level stats affinity skills 
+---kukunochi.json
+tribe nameJP nameEN level stats affinity skills 
+---mavahuel.json
+tribe nameJP nameEN level stats affinity skills 
+---narcissus.json
+tribe nameJP nameEN level stats affinity skills 
+---yggdrasil.json
+tribe nameJP nameEN level stats affinity skills 
+tyrant
+---abaddon.json
+tribe nameJP nameEN level stats affinity skills 
+---aeshma.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---asmodeus.json
+tribe nameJP nameEN level stats affinity skills 
+---astaroth.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---azazel.json
+tribe nameJP nameEN level stats affinity skills 
+---balor.json
+tribe nameJP nameEN level stats affinity skills 
+---beelzebub.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---belial.json
+tribe nameJP nameEN level stats affinity skills 
+---chi_you.json
+tribe nameJP nameEN level stats affinity skills 
+---horkos.json
+tribe nameJP nameEN level stats affinity skills 
+---king_frost.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---loki.json
+tribe nameJP nameEN level stats affinity skills 
+---lucifuge.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---mara.json
+tribe nameJP nameEN level stats affinity skills 
+---mithras.json
+tribe nameJP nameEN level stats affinity skills 
+---morax.json
+tribe nameJP nameEN level stats affinity skills 
+---samyaza.json
+tribe nameJP nameEN level stats affinity skills 
+---surt.json
+tribe nameJP nameEN level stats affinity skills 
+---tzitzimitl.json
+tribe nameJP nameEN level stats affinity skills 
+undead
+---alice.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---corpse.json
+tribe nameJP nameEN level stats affinity skills 
+---patriot.json
+tribe nameJP nameEN level stats affinity skills 
+---samurai_corpse.json
+tribe nameJP nameEN level stats affinity skills 
+---samurai_zombie.json
+tribe nameJP nameEN level stats affinity skills 
+---samurai_zonmi.json
+tribe nameJP nameEN level stats affinity skills 
+---zombie_cop.json
+tribe nameJP nameEN level stats affinity skills 
+vermin
+---arachne.json
+tribe nameJP nameEN level stats affinity skills 
+---mothman.json
+tribe nameJP nameEN level stats affinity skills 
+---myrmecoleon.json
+tribe nameJP nameEN level stats affinity skills 
+---okiku-mushi.json
+tribe nameJP nameEN level stats affinity skills 
+---ubu.json
+tribe nameJP nameEN level stats affinity skills mutate 
+vile
+---alciel.json
+tribe nameJP nameEN level stats affinity skills 
+---baphomet.json
+tribe nameJP nameEN level stats affinity skills 
+---demiurge.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---magatsuhi.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---mishaguji.json
+tribe nameJP nameEN level stats affinity skills 
+---pachacamac.json
+tribe nameJP nameEN level stats affinity skills 
+---pales.json
+tribe nameJP nameEN level stats affinity skills 
+---set.json
+tribe nameJP nameEN level stats affinity skills 
+---tao_tie.json
+tribe nameJP nameEN level stats affinity skills 
+wilder
+---cabracan.json
+tribe nameJP nameEN level stats affinity skills 
+---catoblepas.json
+tribe nameJP nameEN level stats affinity skills 
+---chagrin.json
+tribe nameJP nameEN level stats affinity skills 
+---fenrir.json
+tribe nameJP nameEN level stats affinity skills 
+---jueyuan.json
+tribe nameJP nameEN level stats affinity skills 
+---manticore.json
+tribe nameJP nameEN level stats affinity skills 
+---nue.json
+tribe nameJP nameEN level stats affinity skills 
+---peallaidh.json
+tribe nameJP nameEN level stats affinity skills 
+---porewit.json
+tribe nameJP nameEN level stats affinity skills 
+---raijuu.json
+tribe nameJP nameEN level stats affinity skills 
+---taown.json
+tribe nameJP nameEN level stats affinity skills 
+wood
+---alraune.json
+tribe nameJP nameEN level stats affinity skills 
+---erlkonig.json
+tribe nameJP nameEN level stats affinity skills 
+---mandrake.json
+tribe nameJP nameEN level stats affinity skills 
+---shan_xiao.json
+tribe nameJP nameEN level stats affinity skills 
+---skogsra.json
+tribe nameJP nameEN level stats affinity skills 
+---zaccoum.json
+tribe nameJP nameEN level stats affinity skills 
+yoma
+---agathion.json
+tribe nameJP nameEN level stats affinity skills 
+---centaur.json
+tribe nameJP nameEN level stats affinity skills 
+---dis.json
+tribe nameJP nameEN level stats affinity skills 
+---ganesha.json
+tribe nameJP nameEN level stats affinity skills 
+---karasu_tengu.json
+tribe nameJP nameEN level stats affinity skills 
+---koppa_tengu.json
+tribe nameJP nameEN level stats affinity skills mutate 
+---shiwanna.json
+tribe nameJP nameEN level stats affinity skills 
+---terion.json
+tribe nameJP nameEN level stats affinity skills 
+---valkyrie.json
+tribe nameJP nameEN level stats affinity skills 
+---vodyanik.json
+tribe nameJP nameEN level stats affinity skills 
+---xiuhtecuhtli.json
+tribe nameJP nameEN level stats affinity skills 
+zealot
+---aramisaki.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---attis.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---dionysus.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---ogun.json
+tribe nameJP nameEN level stats affinity skills fusions 
+---tezcatlipoca.json
+tribe nameJP nameEN level stats affinity skills fusions 
