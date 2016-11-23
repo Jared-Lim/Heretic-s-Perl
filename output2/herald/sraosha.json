@@ -1,0 +1,36 @@
+{
+	"tribe": "herald",
+	"nameJP": "スラオシャ",
+	"nameEN": "Sraosha",
+	"level": 67,
+	"stats": {
+		"hp": 362,
+		"mp": 351,
+		"strength": 63,
+		"skill": 70,
+		"magic": 91,
+		"speed": 59,
+		"luck": 84
+	},
+	"affinity": {
+		"physical": "-",
+		"gun": "-",
+		"fire": "-",
+		"ice": "protect",
+		"thunder": "protect",
+		"shock": "weak",
+		"banish": "null",
+		"curse": "protect",
+		"bind": "-",
+		"sleep": "-",
+		"cold": "-",
+		"confusion": "-",
+		"poison": "-"
+	},
+	"skills": {
+		"天罰": 0,
+		"チャクラウォーク": 0,
+		"ディアラハン": 68
+	},
+	"notes": "Normal attack: Phys x1 hits, 1 enemy"
+}

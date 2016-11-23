@@ -1,0 +1,36 @@
+{
+	"tribe": "herald",
+	"nameJP": "ブリジット",
+	"nameEN": "Brigid",
+	"level": 33,
+	"stats": {
+		"hp": 301,
+		"mp": 135,
+		"strength": 39,
+		"skill": 39,
+		"magic": 39,
+		"speed": 39,
+		"luck": 39
+	},
+	"affinity": {
+		"physical": "-",
+		"gun": "-",
+		"fire": "absorb",
+		"ice": "weak",
+		"thunder": "-",
+		"shock": "-",
+		"banish": "-",
+		"curse": "-",
+		"bind": "-",
+		"sleep": "-",
+		"cold": "-",
+		"confusion": "-",
+		"poison": "-"
+	},
+	"skills": {
+		"メディラマ": 0,
+		"アギラオ": 0,
+		"二分の魔脈": 34
+	},
+	"notes": "Normal attack: Phys x1 hits, 1 enemy"
+}
