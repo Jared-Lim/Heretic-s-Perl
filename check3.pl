@@ -6,7 +6,7 @@ closedir(DIR);
 
 foreach(@tribes){
 	$tribe = $_;
-	if(-e "output/".$tribe){
+	if(-e "output2/".$tribe){
 		print "folder ".$tribe."exists\n";
 	}else{
 		mkdir("output2/".$tribe);
