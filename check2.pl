@@ -7,5 +7,17 @@ opendir(DIR,$checkfolder);
 closedir(DIR);
 
 foreach(@heralds){
-	print $_."\n";
+	$herald = $_;
+	open(FILE,$checkfolder."/".$herald);
+	while($line = <FILE>){
+		if($line =~ /"profile"/){
+			print "}"."\n";
+			last;
+		}elsif($line =~ /("notes".*")/){
+			print "\t".$1."\n";
+		}else{
+			print $line;
+		}
+	}
+	close FILE;
 }
