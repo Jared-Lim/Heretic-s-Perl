@@ -15,6 +15,8 @@ foreach(@heralds){
 			last;
 		}elsif($line =~ /("notes".*")/){
 			print "\t".$1."\n";
+		}elsif($line =~/tribe/){
+			print "\t\"tribe\"\: \""."herald"."\",\n";
 		}else{
 			print $line;
 		}
